@@ -37,13 +37,14 @@ public class Choices {
     }
    //-----------=------------------------------------------------
 
-   // setter for id
+   // setter for name
    public void setName(String name) {
        this.name = name;    }
 
 
-    //getter for id
+    //getter for name
     public String getName() {
         return this.name;
     }
 }
+
